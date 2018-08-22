@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/BSc Electrical Engineering/IVth_TERM/Newtons_eqns/main.c
+stdio.h
+-
+math.h
+-
+cmath
+-
+

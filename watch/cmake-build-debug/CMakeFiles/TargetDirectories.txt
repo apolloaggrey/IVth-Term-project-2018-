@@ -1,0 +1,3 @@
+D:/BSc Electrical Engineering/IVth_TERM/watch/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/BSc Electrical Engineering/IVth_TERM/watch/cmake-build-debug/CMakeFiles/watch.dir
+D:/BSc Electrical Engineering/IVth_TERM/watch/cmake-build-debug/CMakeFiles/rebuild_cache.dir

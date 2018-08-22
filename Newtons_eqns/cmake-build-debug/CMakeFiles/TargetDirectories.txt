@@ -1,0 +1,3 @@
+D:/BSc Electrical Engineering/IVth_TERM/Newtons_eqns/cmake-build-debug/CMakeFiles/Newtons_eqns.dir
+D:/BSc Electrical Engineering/IVth_TERM/Newtons_eqns/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/BSc Electrical Engineering/IVth_TERM/Newtons_eqns/cmake-build-debug/CMakeFiles/rebuild_cache.dir
